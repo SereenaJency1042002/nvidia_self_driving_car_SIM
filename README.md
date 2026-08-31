@@ -1,4 +1,4 @@
-# nvidia_self_driving_car_SIM
+# Nvidia_self_driving_car_SIM
 
 End-to-end deep learning model (NVIDIA PilotNet architecture) that learns to steer a car from front-facing camera images, trained via behavioral cloning in the Udacity self-driving car simulator.
 
